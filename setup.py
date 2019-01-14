@@ -8,10 +8,10 @@ setuptools.setup(
     version="0.1.0",
     author="Federico A. Galatolo",
     author_email="federico.galatolo@ing.unipi.it",
-    description="pytorch implementation of ...",
+    description="Pytorch implementation of the Stigmergic Memory",
+    url="https://github.com/galatolofederico/torchsm",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
     packages=setuptools.find_packages(),
     install_requires=[
         "torch==0.4.1",
