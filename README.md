@@ -1,5 +1,5 @@
 # torchsm
-pytorch implementation of the **Stigmergic Memory** as presented in the paper [Using stigmergy as a computational memory in the design of recurrent neural networks]().
+pytorch implementation of the **Stigmergic Memory** as presented in the paper [Using stigmergy as a computational memory in the design of recurrent neural networks](http://www.iet.unipi.it/m.cimino/publications/cimino_pub68.pdf).
 
 You can use this package to **easly** integrate our model into existing ones
 
