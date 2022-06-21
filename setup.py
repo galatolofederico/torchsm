@@ -15,7 +15,7 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     install_requires=[
         "torch==0.4.1",
-        "numpy==1.15.2"
+        "numpy==1.22.0"
     ],
     classifiers=[
         "Programming Language :: Python :: 3.6",
