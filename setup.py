@@ -14,7 +14,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     packages=setuptools.find_packages(),
     install_requires=[
-        "torch==0.4.1",
+        "torch==2.2.0",
         "numpy==1.15.2"
     ],
     classifiers=[
